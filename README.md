@@ -1,5 +1,5 @@
 
-[Demo](https://zepoch.github.io)
+[Demo](https://zhotoa.xyz)
 ## 目录
 我们主要对next主题进行了如下配置操作。
 
