@@ -65,7 +65,7 @@ next主题下载下来后，除了上述`目录`介绍的内容更新外，用�
 $ vi <folder>/_config.yml
 title: Sakura   #修改博客标题
 description:      #修改描述博主描述
-url: https://zhotoa.com    # 修改自己的网站地址
+url: https://zhotoa.xyz    # 修改自己的网站地址
 deploy:
   repository: https://github.com/zepoch/zepoch.github.io    #修改成自己github pages地址
 ```
