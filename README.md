@@ -87,7 +87,7 @@ github_banner:    # 修改github banner地址
 
 social:            # 修改社交地址和图标
   GitHub: https://github.com/zepoch || github
-  E-Mail: mailto:1654306546@qq.com || envelope
+  E-Mail: mailto:*****@mail.com || envelope
   QQ: tencent://message/?uin=xxxxxxxxx&Site=&menu=yes || qq
 
 links:        # 修改推荐阅读
